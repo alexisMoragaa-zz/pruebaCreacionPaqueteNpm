@@ -1,0 +1,26 @@
+{
+  "name": "myfirstpackage",
+  "version": "0.1.0",
+  "description": "ejercicio curso javascript en platzi",
+  "main": "index.js",
+  "scripts": {
+    /* "test": "echo \"Error: no test specified\" && exit 1" */
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisMoragaa/pruebaCreacionPaqueteNpm.git"
+  },
+  "keywords": [
+    "alexis",
+    "test",
+    "platzi",
+    "curso",
+    "javascript"
+  ],
+  "author": "Alexis Moraga <alexis.moraga.gallardo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexisMoragaa/pruebaCreacionPaqueteNpm/issues"
+  },
+  "homepage": "https://github.com/alexisMoragaa/pruebaCreacionPaqueteNpm#readme"
+}
